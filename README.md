@@ -1,3 +1,10 @@
+### `npm install` in the main file to install react.js
+### `npm start`
+### `cd server-api` 
+### `npm install` This will start the server and data will start loading 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
