@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "fb398ed4-e9d1-4219-be25-c6463a93744b",
+      "name": "Aman Kumar",
+      "email": "aman@gmail.com"
+    },
+    {
+      "id": "667e1281-d8f5-4155-864c-0269e1d94d1d",
+      "name": "Amit Kumar",
+      "email": "amit@gmail.com"
+    },
+    {
+      "id": "e3d8694b-e4fe-404e-af8b-05035397ed44",
+      "name": "Max",
+      "email": "max@gmail.com"
+    },
+    {
+      "id": "58fba02e-15f4-457c-8910-118ae759eb8f",
+      "name": "Maxima",
+      "email": "maxima@gmail.com"
+    },
+    {
+      "id": "48b4355c-83b7-4265-8cba-56e89979fb8a",
+      "name": "Akshay Kumar",
+      "email": "akshay@gmail.com"
+    }
+  ]
+}
